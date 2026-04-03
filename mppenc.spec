@@ -2,7 +2,7 @@ Summary:	Musepack SV7 encoder
 Summary(pl.UTF-8):	Koder formatu Musepack SV7
 Name:		mppenc
 Version:	1.16
-Release:	1
+Release:	2
 License:	LGPL v2.1+
 Group:		Applications/Sound
 #Source0Download: https://www.musepack.net/index.php?pg=src
